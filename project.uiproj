@@ -1,0 +1,6 @@
+{
+  "Name": "Process1_Update_Project_List",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}
